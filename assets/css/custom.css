@@ -1,0 +1,55 @@
+@import "./_utility.css";
+
+/* .skeleton{
+    opacity:0.5;
+    animation: skeleton-loading 1s linear infinite alternate;
+}
+@keyframes skeleton-loading {
+    0% {
+        color: hsl(200, 20%, 70%);
+    }
+    100%{
+       color: hsl(200, 20%, 95%);
+    }
+} */
+
+.tag{
+    font-size: 3rem;
+}
+#login{
+    width: 100%
+}
+#Glogin{
+    width: 100%
+}
+
+#under{
+    text-decoration: underline;
+}
+
+#btn{
+    width: 100%;
+}
+.input{
+    border-color: white;
+    width: 90%;
+    margin-top: 50px;
+}
+
+.lap{
+    font-size: 3rem;
+}
+.tab{
+    border: 10px;
+}
+/* .tab:hover{
+    background-color:white;
+   
+} */
+.right{
+    position: absolute;
+    right: 170px;
+    top: 9;
+    display: inline-block;
+}
+  

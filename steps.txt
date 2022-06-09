@@ -1,0 +1,53 @@
+actors
+    1 admin
+    2 end user
+    3 seller
+    4 delhivery partner
+    // 5 payment partners
+
+End User
+    home page
+        product listing
+        offers
+        search bar
+        category
+        cart
+        profile
+    Product detail
+    cart 
+    login page
+    payment page
+        success page
+        error page
+    order history
+    review / feedback
+    refund
+    order cancel
+    change address
+    profile
+
+
+seller
+    product CRUD 
+    order history
+        pending 
+        complete order
+        history
+    offer 
+    payment history
+    promotion
+
+admin
+    seller CRUD
+    user CRUD
+    product CRUD
+    offer CRUD
+    payment 
+    order history
+    CMS (content management system)
+
+delhivery partner
+    order details
+    complete delhivery
+    payment</div>
+    
